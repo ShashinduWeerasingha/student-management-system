@@ -1,2 +1,2 @@
 # student-management-system
-my first software engineering project using java
+my first software engineering project using javascript
